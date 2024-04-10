@@ -7,10 +7,10 @@
  */
 
 /**
- * Description of kldkasmkld
+ * Description of Produto
  *
  * @author Aluno
  */
-class kldkasmkld {
+class Produto {
     //put your code here
 }
